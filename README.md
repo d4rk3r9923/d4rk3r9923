@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://x.com/d4rk3r9923"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white"></a>
     <a href="https://linkedin.com/in/d4rk3r"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white"></a>
-    <a href="https://youtube.com/channel/UC53DG0Q0RJzXHRnLx2h56OA"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-ff0000?logo=Youtube&logoColor=white"></a>
+    <a href="https://https://www.youtube.com/@d4rk3r99"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-ff0000?logo=Youtube&logoColor=white"></a>
 </p>
 
 <p align="left">Greetings! I'm d4rk3r, a wanderer in AI proficient in Python. My expertise lies in the captivating realms of AR, Machine Learning, Deep Learning, NLP and Computer Vision. Engaging in extensive DevOps and MLOps practices further complements my skill set.</p>
@@ -66,7 +66,6 @@ Here are some ideas to get you started:
   <img alt="Onnx-runtime" src="https://img.shields.io/badge/OnnxRuntime-717272.svg?logo=Onnx&logoColor=white"></img>
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-2391E6.svg?logo=OpenCV&logoColor=white"></img>
   <img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-008F9E.svg?&logoColor=white"></img>
-   <a href="#"><img alt="luxonis-depthai-core" src="https://img.shields.io/badge/Depthai-Core-4E26DA.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgdmVyc2lvbj0iMS4xIgogICB2aWV3Qm94PSIwIDAgMTI4LjQ2MDAxIDExMi43MyIKICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgaWQ9InN2ZzI0IgogICBzb2RpcG9kaTpkb2NuYW1lPSJsb2dvX3N5bWJvbC5zdmciCiAgIGlua3NjYXBlOmV4cG9ydC1maWxlbmFtZT0iXFx3c2wkXFVidW50dS0yMC4wNFxob21lXGphbmNpYnVsa2FcZGV2XHdlYnNpdGVccHVibGljXGFzc2V0c1xtYXJrZXRpbmdcYnJhbmRcbG9nby53ZWJwIgogICBpbmtzY2FwZTpleHBvcnQteGRwaT0iOTYiCiAgIGlua3NjYXBlOmV4cG9ydC15ZHBpPSI5NiIKICAgaW5rc2NhcGU6dmVyc2lvbj0iMS4xLjIgKGI4ZTI1YmU4MzMsIDIwMjItMDItMDUpIgogICB3aWR0aD0iMTI4LjQ2MDAxIgogICBoZWlnaHQ9IjExMi43MyIKICAgeG1sbnM6aW5rc2NhcGU9Imh0dHA6Ly93d3cuaW5rc2NhcGUub3JnL25hbWVzcGFjZXMvaW5rc2NhcGUiCiAgIHhtbG5zOnNvZGlwb2RpPSJodHRwOi8vc29kaXBvZGkuc291cmNlZm9yZ2UubmV0L0RURC9zb2RpcG9kaS0wLmR0ZCIKICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48ZGVmcwogICBpZD0iZGVmczI4Ij4KCgoKCgoKCgoKICA8L2RlZnM+PHNvZGlwb2RpOm5hbWVkdmlldwogICBpZD0ibmFtZWR2aWV3MjYiCiAgIHBhZ2Vjb2xvcj0iI2ZmZmZmZiIKICAgYm9yZGVyY29sb3I9IiM2NjY2NjYiCiAgIGJvcmRlcm9wYWNpdHk9IjEuMCIKICAgaW5rc2NhcGU6cGFnZXNoYWRvdz0iMiIKICAgaW5rc2NhcGU6cGFnZW9wYWNpdHk9IjAuMCIKICAgaW5rc2NhcGU6cGFnZWNoZWNrZXJib2FyZD0iMCIKICAgc2hvd2dyaWQ9ImZhbHNlIgogICBpbmtzY2FwZTp6b29tPSIyLjgzNTU0ODIiCiAgIGlua3NjYXBlOmN4PSI3MS45NDM3NiIKICAgaW5rc2NhcGU6Y3k9IjU2LjI1MDE0NiIKICAgaW5rc2NhcGU6d2luZG93LXdpZHRoPSIxOTIwIgogICBpbmtzY2FwZTp3aW5kb3ctaGVpZ2h0PSIxMDAxIgogICBpbmtzY2FwZTp3aW5kb3cteD0iLTkiCiAgIGlua3NjYXBlOndpbmRvdy15PSItOSIKICAgaW5rc2NhcGU6d2luZG93LW1heGltaXplZD0iMSIKICAgaW5rc2NhcGU6Y3VycmVudC1sYXllcj0ic3ZnMjQiCiAgIGlua3NjYXBlOnNob3dwYWdlc2hhZG93PSJ0cnVlIgogICBmaXQtbWFyZ2luLXRvcD0iMCIKICAgZml0LW1hcmdpbi1sZWZ0PSIwIgogICBmaXQtbWFyZ2luLXJpZ2h0PSIwIgogICBmaXQtbWFyZ2luLWJvdHRvbT0iMCIgLz4KICA8c3R5bGUKICAgdHlwZT0idGV4dC9jc3MiCiAgIGlkPSJzdHlsZTIiPgogICAgLnN0MCB7CiAgICAgIGZpbGw6ICM1NzI0RTg7CiAgICB9CiAgPC9zdHlsZT4KICA8ZwogICBpZD0iZzY4MSIKICAgY2xpcC1wYXRoPSJub25lIgogICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMC41LC0yNy45NykiPjxwYXRoCiAgICAgY2xhc3M9InN0MCIKICAgICBkPSJtIDcyLjYsMTE5LjA1IGMgLTE5LjE0LDAgLTM0LjcxLC0xNS41NyAtMzQuNzEsLTM0LjcyIDAsLTE5LjE0IDE1LjU3LC0zNC43MSAzNC43MSwtMzQuNzEgMTkuMTQsMCAzNC43MSwxNS41NyAzNC43MSwzNC43MSAwLjAxLDE5LjE0IC0xNS41NywzNC43MiAtMzQuNzEsMzQuNzIgbSAwLC05MS4wOCBjIC0yNy40MiwwIC01MC4yNiwxOS41OSAtNTUuMzEsNDUuNTQgSCAwLjUgdiAyMS42NSBoIDE2Ljc5IGMgNS4wNSwyNS45NSAyNy44OSw0NS41NCA1NS4zMSw0NS41NCAzMS4xMywwIDU2LjM2LC0yNS4yMyA1Ni4zNiwtNTYuMzYgMCwtMzEuMTMgLTI1LjIzLC01Ni4zNyAtNTYuMzYsLTU2LjM3IgogICAgIGlkPSJwYXRoMTgiIC8+PHBhdGgKICAgICBjbGFzcz0ic3QwIgogICAgIGQ9Im0gNzIuNiw4Ny4wOSBjIC0xLjUyLDAgLTIuNzYsLTEuMjQgLTIuNzYsLTIuNzYgMCwtMS41MiAxLjI0LC0yLjc2IDIuNzYsLTIuNzYgMS41MiwwIDIuNzYsMS4yNCAyLjc2LDIuNzYgMCwxLjUyIC0xLjI0LDIuNzYgLTIuNzYsMi43NiBtIDAsLTEzLjU3IGMgLTUuOTcsMCAtMTAuODEsNC44NCAtMTAuODEsMTAuODEgMCw1Ljk3IDQuODQsMTAuODEgMTAuODEsMTAuODEgNS45NywwIDEwLjgxLC00Ljg0IDEwLjgxLC0xMC44MSAwLC01Ljk3IC00Ljg0LC0xMC44MSAtMTAuODEsLTEwLjgxIgogICAgIGlkPSJwYXRoMjAiIC8+PC9nPgo8L3N2Zz4K"></a>
 </p>
 
 <h3 align="left">Databases</h3>
@@ -82,7 +81,6 @@ Here are some ideas to get you started:
     <a href="#"><img alt="WireGuard" src="https://img.shields.io/badge/WireGuard-88171A?logo=WireGuard&logoColor=white"></a>
     <a href="#"><img alt="OpenVPN" src="https://img.shields.io/badge/OpenVPN-EA7E20?logo=OpenVPN&logoColor=white"></a>
 </p>
-
 
 <h3 align="left">Virtualization Platforms</h3>
 <p>
@@ -134,15 +132,12 @@ Here are some ideas to get you started:
     <a href="#"><img alt="OSX" src="https://img.shields.io/badge/Mac-OSX-%23E34F26.svg?logo=Apple&logoColor=white"></a>
 </p>
 
-
 <h3 align="left">Cloud Providers</h3>
 <p>
     <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/AmazonAWS-232F3E.svg?logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="Azure" src="https://img.shields.io/badge/AzureCloud-232F3E.svg?logo=azuredevops&logoColor=white"></a>
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google-Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
 </p>
-
-
 
 ## Current project(s) I'm working/worked on,
 
@@ -158,13 +153,5 @@ Here are some ideas to get you started:
 ## Useful links
 If you want to stay in touch with me, these links can be useful.
  
-- [LinkedIn](https://www.linkedin.com/in/osezer/)
-- [AskFedora account](https://ask.fedoraproject.org/u/thunderbirdtr/)
-- [Twitter](https://twitter.com/onuralpszr)
-- [Fedora Pagure Account](https://pagure.io/user/thunderbirdtr)
-- [Src.Fedora Account ](https://src.fedoraproject.org/user/thunderbirdtr/)
-- [Credly](https://www.credly.com/users/onuralp-sezer/badges)
-- [Google Developer Account](https://developers.google.com/profile/u/onuralpsezer)
-- [Personal Fedora wiki page](https://fedoraproject.org/wiki/User:Thunderbirdtr)
-- [Fedora Contribution Badges](https://badges.fedoraproject.org/user/thunderbirdtr)
-- [Google Cloud Skill Boost Profile](https://www.cloudskillsboost.google/public_profiles/aa921c43-e963-4266-aa26-e7465dab9aec)
+- [Google Developer Account]()
+- [Google Cloud Skill Boost Profile]()
