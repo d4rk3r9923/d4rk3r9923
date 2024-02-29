@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=d4rk3r&show_icons=true&theme=dark" alt="d4rk3r's GitHub stats"></img>
-  <img width="50%" src="https://ghstats.d4rk3r.com/?user=d4rk3r&theme=dark&hide_border=false" alt="d4rk3r's GitHub Streak stats"></img>
+  <img width="50%" src="https://streak-stats.demolab.com/?user=d4rk3r9923" alt="d4rk3r's GitHub Streak stats"></img>
 </p>
 
 Websites
