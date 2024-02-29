@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="center">
-<a href="https://github.com/onuralpszr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+Onuralp;Nice+to+meet+you!" alt="Typing SVG" /></a>
+<a href="https://github.com/onuralpszr"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Hi+there%F0%9F%91%8B!+I+am+d4rk3r;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-    <a href="twitter.com/d4rk3r9923"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white"></a>
-    <a href="linkedin.com/in/d4rk3r"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white"></a>
-    <a href="youtube.com/channel/UC53DG0Q0RJzXHRnLx2h56OA"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-ff0000?logo=Youtube&logoColor=white"></a>
+    <a href="https://twitter.com/d4rk3r9923"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white"></a>
+    <a href="https://linkedin.com/in/d4rk3r"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white"></a>
+    <a href="https://youtube.com/channel/UC53DG0Q0RJzXHRnLx2h56OA"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-ff0000?logo=Youtube&logoColor=white"></a>
 </p>
 
 <p align="left">Greetings! I'm d4rk3r, a wanderer in AI proficient in Python. My expertise lies in the captivating realms of AR, Machine Learning, Deep Learning, NLP and Computer Vision. Engaging in extensive DevOps and MLOps practices further complements my skill set.</p>
@@ -29,15 +30,15 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center">
-  <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=onuralpszr&show_icons=true&theme=dark" alt="d4rk3r's GitHub stats"></img>
-  <img width="50%" src="https://ghstats.onuralpsezer.com/?user=onuralpszr&theme=dark&hide_border=false" alt="d4rk3r's GitHub Streak stats"></img>
+  <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=d4rk3r&show_icons=true&theme=dark" alt="d4rk3r's GitHub stats"></img>
+  <img width="50%" src="https://ghstats.d4rk3r.com/?user=d4rk3r&theme=dark&hide_border=false" alt="d4rk3r's GitHub Streak stats"></img>
 </p>
 
 Websites
 
 <h3 align="left">Programming</h3>
 <p>
-    <a href="docs.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+    <a href="https://docs.python.org"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
     <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%23E34F26.svg?logo=Kotlin&logoColor=white"></img>
     <img alt="Dart" src="https://img.shields.io/badge/Dart-00979D?logo=dart&logoColor=white"></img>
     <img alt="cpp" src="https://img.shields.io/badge/++-2391E6.svg?logo=C&logoColor=white"></img>
