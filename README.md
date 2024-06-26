@@ -139,7 +139,7 @@ Here are some ideas to get you started:
     <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google-Cloud-4285F4.svg?logo=googlecloud&logoColor=white"></a>
 </p>
 
-## Current project(s) I'm working/worked on,
+## Projects
 
 - [Supervision](https://github.com/roboflow/supervision)
 - [Ear-segmentation-ai](https://github.com/umitkacar/Ear-segmentation-ai)
@@ -154,3 +154,4 @@ Here are some ideas to get you started:
  
 - [Google Developer Account](https://developers.google.com/)
 - [Google Cloud Skill Boost Profile](https://www.cloudskillsboost.google/)
+- [Patreon](https://www.patreon.com/)
