@@ -151,7 +151,6 @@ Here are some ideas to get you started:
 - [Ultralytics](https://github.com/ultralytics/ultralytics)
 
 ## Useful links
-If you want to stay in touch with me, these links can be useful.
  
-- [Google Developer Account]()
-- [Google Cloud Skill Boost Profile]()
+- [Google Developer Account](https://developers.google.com/)
+- [Google Cloud Skill Boost Profile](https://www.cloudskillsboost.google/)
