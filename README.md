@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="center">
     <a href="https://x.com/d4rk3r9923"><img alt="X" src="https://img.shields.io/badge/X-000000?logo=X&logoColor=white"></a>
     <a href="https://linkedin.com/in/d4rk3r"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white"></a>
-    <a href="https://https://www.youtube.com/@d4rk3r99"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-ff0000?logo=Youtube&logoColor=white"></a>
+    <a href="https://www.youtube.com/@d4rk3r99"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-ff0000?logo=Youtube&logoColor=white"></a>
 </p>
 
 <p align="left">Greetings! I'm d4rk3r, a wanderer in AI proficient in Python. My expertise lies in the captivating realms of AR, Machine Learning, Deep Learning, NLP and Computer Vision. Engaging in extensive DevOps and MLOps practices further complements my skill set.</p>
