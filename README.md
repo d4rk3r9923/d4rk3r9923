@@ -61,6 +61,7 @@ Here are some ideas to get you started:
   <a href="https://onnxruntime.ai/"><img alt="Onnx-runtime" src="https://img.shields.io/badge/OnnxRuntime-717272.svg?logo=Onnx&logoColor=white"></a>
   <a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-2391E6.svg?logo=OpenCV&logoColor=white"></a>
   <a href="https://google.github.io/mediapipe/"><img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-008F9E.svg?logoColor=white"></a>
+  <a href="https://neo4j.com/"><img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1.svg?logo=Neo4j&logoColor=white"></a>
 </p>
 
 <h3 align="left">Databases</h3>
@@ -96,10 +97,17 @@ Here are some ideas to get you started:
     <a href="https://www.nvidia.com/"><img alt="Nvidia" src="https://img.shields.io/badge/Nvidia-76B900.svg?logo=Nvidia&logoColor=white"></a>
     <a href="https://llvm.org/"><img alt="LLVM" src="https://img.shields.io/badge/LLVM-262D3A.svg?logo=LLVM&logoColor=white"></a>
     <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="https://www.conventionalcommits.org/"><img alt="Conventional Commits" src="https://img.shields.io/badge/Conventional%20Commits-FE5196?logo=conventionalcommits&logoColor=white"></a>
-    <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-StackOverflow-F58025?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/teams/group-chat-software"><img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=white"></a>
-    <a href="https://www.jetbrains.com/"><img alt="JetBrains" src="https://img.shields.io/badge/JetBrains-000000.svg?logo=jetbrains&logoColor=white"></a>
+    <a href="https://www.conventionalcommits.org/"><img alt="Conventional Commits" src="https://img.shields.io/badge/Conventional%20Commits-008B00.svg?logo=git&logoColor=white"></a>
+    <a href="https://www.ansible.com/"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-192F5D.svg?logo=Ansible&logoColor=white"></a>
+</p>
+
+<h3 align="left">Testing</h3>
+<p>
+    <a href="https://www.cypress.io/"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"></a>
+    <a href="https://www.katalon.com/"><img alt="Katalon" src="https://img.shields.io/badge/Katalon-00B4AB?logo=katalon&logoColor=white"></a>
+    <a href="https://mocha.js.org/"><img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white"></a>
+    <a href="https://www.jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white"></a>
+    <a href="https://jmeter.apache.org/"><img alt="Apache JMeter" src="https://img.shields.io/badge/Apache%20JMeter-4F7B93?logo=apachejmeter&logoColor=white"></a>
 </p>
 
 <h3 align="left">Cloud Services</h3>
@@ -107,17 +115,7 @@ Here are some ideas to get you started:
     <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
     <a href="https://cloud.google.com/"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white"></a>
     <a href="https://azure.microsoft.com/"><img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white"></a>
-</p>
-
-<h3 align="left">Others</h3>
-<p>
-    <a href="https://www.cypress.io/"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"></a>
-    <a href="https://www.katalon.com/"><img alt="Katalon" src="https://img.shields.io/badge/Katalon-00B4AB?logo=katalon&logoColor=white"></a>
-    <a href="https://cypress.io/"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"></a>
-    <a href="https://mocha.js.org/"><img alt="Mocha" src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white"></a>
-    <a href="https://www.jestjs.io/"><img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white"></a>
-    <a href="https://www.cypress.io/"><img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"></a>
-    <a href="https://jmeter.apache.org/"><img alt="Apache JMeter" src="https://img.shields.io/badge/Apache%20JMeter-4F7B93?logo=apachejmeter&logoColor=white"></a>
+    <a href="https://www.cloudflare.com/"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020.svg?logo=Cloudflare&logoColor=white"></a>
 </p>
 
 # Projects
