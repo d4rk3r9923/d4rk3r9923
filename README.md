@@ -50,22 +50,29 @@ Here are some ideas to get you started:
 
 <h3 align="left">Framework & Libraries</h3>
 <p> 
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=FastAPI&logoColor=white"></img>
-  <img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white"></img>
-  <img alt="Django Rest Framework" src="https://img.shields.io/badge/Django%20Rest%20Framework%20-%23404d59.svg?logo=django&logoColor=white"></img>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></img>
-  <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%2320232a.svg?logo=angular&logoColor=red"></img>
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-006400.svg?logo=Qt&logoColor=white"></img>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-2391E6.svg?logo=Flutter&logoColor=white"></img>
-  <img alt="Android" src="https://img.shields.io/badge/Android-7AFF33.svg?logo=Android&logoColor=black"></img>
-  <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-v2-FE7A16.svg?logo=Tensorflow&logoColor=white"></img>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
-  <img alt="PyTorch" src="https://img.shields.io/badge/TorchVision-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
-  <img alt="PyTorch" src="https://img.shields.io/badge/TorchAudio-EE4C2C.svg?logo=PyTorch&logoColor=white"></img>
-  <img alt="Onnx" src="https://img.shields.io/badge/Onnx-717272.svg?logo=Onnx&logoColor=white"></img>
-  <img alt="Onnx-runtime" src="https://img.shields.io/badge/OnnxRuntime-717272.svg?logo=Onnx&logoColor=white"></img>
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-2391E6.svg?logo=OpenCV&logoColor=white"></img>
-  <img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-008F9E.svg?&logoColor=white"></img>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=FastAPI&logoColor=white"></img><br>
+  <img alt="Django" src="https://img.shields.io/badge/Django-006400.svg?logo=Django&logoColor=white"></img><br>
+  <img alt="Django Rest Framework" src="https://img.shields.io/badge/Django%20Rest%20Framework%20-%23404d59.svg?logo=django&logoColor=white"></img><br>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></img><br>
+  <img alt="Angular" src="https://img.shields.io/badge/Angular%20-%2320232a.svg?logo=angular&logoColor=red"></img><br>
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-006400.svg?logo=Qt&logoColor=white"></img><br>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-2391E6.svg?logo=Flutter&logoColor=white"></img><br>
+  <img alt="Android" src="https://img.shields.io/badge/Android-7AFF33.svg?logo=Android&logoColor=black"></img><br>
+  <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-v2-FE7A16.svg?logo=Tensorflow&logoColor=white"></img><br>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white"></img><br>
+  <img alt="TorchVision" src="https://img.shields.io/badge/TorchVision-EE4C2C.svg?logo=PyTorch&logoColor=white"></img><br>
+  <img alt="TorchAudio" src="https://img.shields.io/badge/TorchAudio-EE4C2C.svg?logo=PyTorch&logoColor=white"></img><br>
+  <img alt="Onnx" src="https://img.shields.io/badge/Onnx-717272.svg?logo=Onnx&logoColor=white"></img><br>
+  <img alt="Onnx-runtime" src="https://img.shields.io/badge/OnnxRuntime-717272.svg?logo=Onnx&logoColor=white"></img><br>
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-2391E6.svg?logo=OpenCV&logoColor=white"></img><br>
+  <img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-008F9E.svg?&logoColor=white"></img><br>
+  <!-- MLOps Libraries -->
+  <img alt="MLFlow" src="https://img.shields.io/badge/MLFlow-0194E2.svg?logo=MLFlow&logoColor=white"></img><br>
+  <img alt="Kubeflow" src="https://img.shields.io/badge/Kubeflow-326CE5.svg?logo=Kubernetes&logoColor=white"></img><br>
+  <img alt="Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?logo=Apache%20Airflow&logoColor=white"></img><br>
+  <img alt="DVC" src="https://img.shields.io/badge/DVC-9453BF.svg?logo=DVC&logoColor=white"></img><br>
+  <img alt="ClearML" src="https://img.shields.io/badge/ClearML-30BFBF.svg?logo=ClearML&logoColor=white"></img><br>
+  <img alt="Neptune" src="https://img.shields.io/badge/Neptune-5C7DE3.svg?logo=Neptune&logoColor=white"></img>
 </p>
 
 <h3 align="left">Databases</h3>
@@ -141,12 +148,12 @@ Here are some ideas to get you started:
 
 ## Projects
 
-- [ ] Tabular Data
-- [ ] Time Series Data
-- [ ] Image Data
-- [ ] Text Data
-- [ ] Audio Data
-- [ ] Graph Data
+- Tabular Data
+- Time Series Data
+- Image Data
+- Text Data
+- Audio Data
+- Graph Data
 
 ## Useful links
  
