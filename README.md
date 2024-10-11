@@ -141,14 +141,12 @@ Here are some ideas to get you started:
 
 ## Projects
 
-- [Supervision](https://github.com/roboflow/supervision)
-- [Ear-segmentation-ai](https://github.com/umitkacar/Ear-segmentation-ai)
-- [GFPGAN-ncnn-vulkan](https://github.com/onuralpszr/GFPGAN-ncnn-vulkan)
-- [CvCamera-Mobile](https://github.com/onuralpszr/CvCamera-Mobile)
-- [Sceneview-android](https://github.com/SceneView/sceneview-android)
-- [Sceneform-android from Sceneview Team](https://github.com/SceneView/sceneform-android)
-- [Nvidia Auto Installer](https://github.com/t0xic0der/nvidia-auto-installer-for-fedora)
-- [Ultralytics](https://github.com/ultralytics/ultralytics)
+- [] Tabular Data
+- [] Time Series Data
+- [] Image Data
+- [] Text Data
+- [] Audio Data
+- [] Graph Data
 
 ## Useful links
  
