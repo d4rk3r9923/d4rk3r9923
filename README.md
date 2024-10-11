@@ -141,12 +141,12 @@ Here are some ideas to get you started:
 
 ## Projects
 
-- [] Tabular Data
-- [] Time Series Data
-- [] Image Data
-- [] Text Data
-- [] Audio Data
-- [] Graph Data
+- [ ] Tabular Data
+- [ ] Time Series Data
+- [ ] Image Data
+- [ ] Text Data
+- [ ] Audio Data
+- [ ] Graph Data
 
 ## Useful links
  
