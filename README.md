@@ -61,7 +61,6 @@ Here are some ideas to get you started:
   <a href="https://onnxruntime.ai/"><img alt="Onnx-runtime" src="https://img.shields.io/badge/OnnxRuntime-717272.svg?logo=Onnx&logoColor=white"></a>
   <a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-2391E6.svg?logo=OpenCV&logoColor=white"></a>
   <a href="https://google.github.io/mediapipe/"><img alt="Mediapipe" src="https://img.shields.io/badge/Mediapipe-008F9E.svg?logoColor=white"></a>
-  <a href="https://neo4j.com/"><img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1.svg?logo=Neo4j&logoColor=white"></a>
 </p>
 
 <h3 align="left">Databases</h3>
@@ -70,6 +69,7 @@ Here are some ideas to get you started:
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
     <a href="https://www.mysql.com/"><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?logo=MySQL&logoColor=white"></a>
     <a href="https://mariadb.org/"><img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?logo=MariaDB&logoColor=white"></a>
+    <a href="https://neo4j.com/"><img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-008CC1.svg?logo=Neo4j&logoColor=white"></a>
 </p>
 
 <h3 align="left">VPN Servers</h3>
